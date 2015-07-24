@@ -1,0 +1,12 @@
+﻿1>------ Build started: Project: Siteyonetim.Framework, Configuration: Debug Any CPU ------
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardEinvoiceMail.cs(3,7,3,33): warning CS0105: The using directive for 'Siteyonetim.Framework.Data' appeared previously in this namespace
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardLog.cs(4,7,4,33): warning CS0105: The using directive for 'Siteyonetim.Framework.Data' appeared previously in this namespace
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardUser.cs(4,7,4,33): warning CS0105: The using directive for 'Siteyonetim.Framework.Data' appeared previously in this namespace
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardUserRights.cs(4,7,4,33): warning CS0105: The using directive for 'Siteyonetim.Framework.Data' appeared previously in this namespace
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardEinvoiceMail.cs(35,14,35,21): warning CS0414: The field 'Siteyonetim.Framework.Data.DashboardEinvoiceMail._COMMIT' is assigned but its value is never used
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardLog.cs(31,14,31,21): warning CS0414: The field 'Siteyonetim.Framework.Data.DashboardLog._COMMIT' is assigned but its value is never used
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardUser.cs(35,14,35,21): warning CS0414: The field 'Siteyonetim.Framework.Data.DashboardUser._COMMIT' is assigned but its value is never used
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DashboardUserRights.cs(33,14,33,21): warning CS0414: The field 'Siteyonetim.Framework.Data.DashboardUserRights._COMMIT' is assigned but its value is never used
+1>C:\Generations\SiteYonetim\Siteyonetim.Framework\Data\DataStoreServices.cs(24,28,24,39): warning CS0649: Field 'DataStoreServices.Sql_Gateway.m_DbCommand' is never assigned to, and will always have its default value null
+1>  Siteyonetim.Framework -> C:\Generations\SiteYonetim\Siteyonetim.Framework\bin\Debug\Siteyonetim.Framework.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
